@@ -1,0 +1,54 @@
+.contact{
+	padding: 0 40px 50px 40px;
+	width: 700px;
+}
+
+.contact h3{
+	font-size: 20px;
+	padding-bottom: 8px;
+	border-bottom: 3px solid #dee7ec;
+}
+
+.contact-form{
+	width: 200px;
+	padding-top: 25px;
+}
+
+.contact-form p{
+	font-size: 12px;
+}
+
+input,textarea{
+	padding: 10px;
+	width: 200px;
+	margin-bottom: 15px;
+	border: 1px solid #dee7ec;
+}
+
+.button{
+	color: blue;
+	background-color: cornsilk;
+	width: 100px;
+}
+
+.footer{
+	background-color: cyan;
+	color: darkgreen;
+	height: 70px;
+	width: 700px;
+	padding: 10px;
+}
+
+.footer-logo{
+	font-size: 16px;
+	float: left;
+}
+
+.footer-list{
+	font-size: 12px;
+	float: right;
+}
+
+.footer-list li{
+	padding-bottom: 5px;
+}

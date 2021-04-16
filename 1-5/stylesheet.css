@@ -1,0 +1,37 @@
+.main{
+	padding: 20px 40px 0 40px;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 0px;
+	padding-left: 40px;
+}
+
+.main-logo{
+	font-size: 55px;
+	margin-bottom: 5px;
+}
+
+.main h2{
+	font-size: 28px;
+	margin-bottom: 5px;
+}
+
+.contents-items img{
+	width: 50%;
+	height: 25%;
+}
+
+.contents-items{
+	float: left;
+	padding: 25px 10px 0px 0px;
+}
+
+.contents h3{
+	font-size: 20px;
+	border-bottom: 2px solid rebeccapurple;
+}
+
+.contents{
+	padding: 59px 40px;
+	display: flex;
+}
