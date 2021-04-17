@@ -63,3 +63,35 @@ a{
 .fab{
 	margin-right: 5px;
 }
+
+header{
+	height: 80px;
+	width: 100%;
+	background-color: white;
+}
+
+.logo{
+	height: 80px;
+	width: 200px;
+}
+
+.header-left{
+	float: left;
+}
+
+.header-right{
+	float: right;
+	background-color: rgba(230, 255, 255, 0.5);
+	transition: all 1.5s;
+}
+
+.header-right a{
+	color: black;
+	line-height: 80px;
+	padding: 0 25px;
+	display: block;
+}
+
+.header-right:hover{
+	background-color: rgba(20, 255, 255, 0.8);
+}
