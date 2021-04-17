@@ -68,6 +68,8 @@ header{
 	height: 80px;
 	width: 100%;
 	background-color: white;
+	position: fixed;
+	z-index: 100;
 }
 
 .logo{
@@ -162,4 +164,18 @@ header{
 
 .heading h3{
 	font-weight: normal;
+}
+
+footer img{
+	width: 145px;
+}
+
+footer p{
+	color: #b3aeb5;
+	font-size: 12px;
+}
+
+footer{
+	padding-top: 30px;
+	text-align: center;
 }
