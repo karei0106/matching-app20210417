@@ -95,3 +95,48 @@ header{
 .header-right:hover{
 	background-color: rgba(20, 255, 255, 0.8);
 }
+
+.lesson-wrapper{
+	height: 500px;
+	padding-bottom: 80px;
+	background-color: #f7f7f7;
+	text-align: center;
+}
+
+.heading{
+	padding-top: 60px;
+	color: #5f5d60;
+}
+
+.heading{
+	font-weight: normal;
+}
+
+.lesson{
+	float: left;
+	width: 25%;
+}
+
+.lesson img{
+	width: 170px;
+	height: auto;
+}
+
+.lesson-icon{
+	position: relative;
+}
+
+.lesson-icon p{
+	position: absolute;
+	top: 33px;
+	width: 100%;
+	color: rgb(104, 96, 96);
+}
+
+.text-contents{
+	width: 80%;
+	display: inline-block;
+	margin-top: 20px;
+	color: #b3aeb5;
+	font-size: 12px;
+}
